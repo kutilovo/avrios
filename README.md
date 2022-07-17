@@ -1,4 +1,4 @@
-#Description
+## Description
 Application allows for search Berlin block parties with searching by district
 
 ## To run the app please enter while in the root of the project:
